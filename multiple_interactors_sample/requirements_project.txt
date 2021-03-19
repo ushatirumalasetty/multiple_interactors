@@ -23,5 +23,5 @@ ib_sentry_wrapper==1.0.2
 
 
 django-cors-headers==3.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-xml==2.0.0
